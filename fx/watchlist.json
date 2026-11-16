@@ -1,0 +1,119 @@
+{
+  "mode": "daily",
+  "as_of": "2026-11-15 21:12 (Nueva York)",
+  "universe": 28,
+  "scanned": 28,
+  "failed": [],
+  "hits": [
+    {
+      "pair": "EURUSD",
+      "setups": [
+        "ruptura_20d_bajista"
+      ],
+      "price": 1.10502,
+      "rsi": 33.0,
+      "atr_pips": 77.8,
+      "close_date": "2026-11-13"
+    },
+    {
+      "pair": "EURJPY",
+      "setups": [
+        "pierde_ma20"
+      ],
+      "price": 176.659,
+      "rsi": 45.2,
+      "atr_pips": 116.6,
+      "close_date": "2026-11-13"
+    },
+    {
+      "pair": "GBPUSD",
+      "setups": [
+        "ruptura_20d_bajista"
+      ],
+      "price": 1.32314,
+      "rsi": 39.8,
+      "atr_pips": 92.1,
+      "close_date": "2026-11-13"
+    },
+    {
+      "pair": "GBPCHF",
+      "setups": [
+        "ruptura_20d_alcista"
+      ],
+      "price": 1.106,
+      "rsi": 57.5,
+      "atr_pips": 60.2,
+      "close_date": "2026-11-13"
+    },
+    {
+      "pair": "AUDUSD",
+      "setups": [
+        "ruptura_20d_bajista"
+      ],
+      "price": 0.68069,
+      "rsi": 31.4,
+      "atr_pips": 62.4,
+      "close_date": "2026-11-13"
+    },
+    {
+      "pair": "NZDUSD",
+      "setups": [
+        "ruptura_20d_bajista"
+      ],
+      "price": 0.55448,
+      "rsi": 37.2,
+      "atr_pips": 54.5,
+      "close_date": "2026-11-13"
+    },
+    {
+      "pair": "USDCAD",
+      "setups": [
+        "ruptura_20d_alcista"
+      ],
+      "price": 1.4261,
+      "rsi": 68.5,
+      "atr_pips": 77.4,
+      "close_date": "2026-11-13"
+    },
+    {
+      "pair": "USDCHF",
+      "setups": [
+        "ruptura_20d_alcista"
+      ],
+      "price": 0.83593,
+      "rsi": 64.2,
+      "atr_pips": 71.6,
+      "close_date": "2026-11-13"
+    },
+    {
+      "pair": "USDJPY",
+      "setups": [
+        "ruptura_20d_alcista"
+      ],
+      "price": 159.875,
+      "rsi": 63.9,
+      "atr_pips": 101.6,
+      "close_date": "2026-11-13"
+    },
+    {
+      "pair": "CADCHF",
+      "setups": [
+        "recupera_ma20"
+      ],
+      "price": 0.58605,
+      "rsi": 52.5,
+      "atr_pips": 39.9,
+      "close_date": "2026-11-13"
+    },
+    {
+      "pair": "CHFJPY",
+      "setups": [
+        "pierde_ma20"
+      ],
+      "price": 191.219,
+      "rsi": 45.9,
+      "atr_pips": 123.1,
+      "close_date": "2026-11-13"
+    }
+  ]
+}

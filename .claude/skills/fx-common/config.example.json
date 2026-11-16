@@ -1,0 +1,25 @@
+{
+  "account_currency": "USD",
+  "balance": 5000,
+  "leverage": 30,
+  "max_loss_per_trade": 50,
+  "max_daily_loss": 150,
+  "max_trades_per_day": 3,
+  "min_reward_risk": 1.0,
+  "max_margin_pct": 50,
+  "lot_step_units": 1000,
+  "min_stop_spreads": 5,
+  "flat_by": "16:30",
+  "news_check": true,
+  "news_blackout_min": 30,
+  "max_signal_age_min": 15,
+  "max_positions_per_currency": 1,
+  "pairs": ["EURUSD", "GBPUSD", "USDJPY", "USDCHF", "AUDUSD", "USDCAD", "NZDUSD"],
+  "spreads_pips": {"EURUSD": 1.0, "GBPUSD": 1.5, "USDJPY": 1.0},
+  "sessions": {
+    "london": {"range_start": "00:00", "range_end": "08:00", "entries_until": "11:00"},
+    "ny": {"range_start": "08:00", "range_end": "09:00", "entries_until": "12:00"}
+  },
+  "blocked": [],
+  "paper": true
+}
